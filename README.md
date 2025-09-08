@@ -1,4 +1,4 @@
-<h1>&nbsp;Olá, eu sou o Bruno, um estudante Front-End!</h1>
+<h1>&nbsp;Olá, me chamo Bruno, um estudante Front-End!</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/brunobeniciopi"><img src="https://img.shields.io/badge/-Bruno%20Benicio-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:carecsnay1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -38,13 +38,12 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 
 <h3>👨‍💻 &nbsp;Stack que irei estudar em breve:</h3>
 
 <h4>Front-End:</h4>
 
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![OWASP](https://img.shields.io/badge/-OWASP-333333?style=flat&logo=owasp)
@@ -66,6 +65,7 @@
 ![Conventional Commits](https://img.shields.io/badge/-Conventional%20Commits-333333?style=flat&logo=conventionalcommits)
 ![TypeORM](https://img.shields.io/badge/TypeORM-333333.svg?style=flat&logo=typeorm)
 ![NPM](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
+![PNPM](https://img.shields.io/badge/-pnpm-333333?style=flat&logo=pnpm)
 ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn)
 ![Clean Code](https://img.shields.io/badge/-Clean%20Code-333333?style=flat&logo=clean-code)
 ![English](https://img.shields.io/badge/-English-333333?style=flat&logo=english)
