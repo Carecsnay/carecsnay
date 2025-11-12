@@ -39,6 +39,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Python](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=python.js)
 
 <h3>👨‍💻 &nbsp;Stack que irei estudar em breve:</h3>
 
