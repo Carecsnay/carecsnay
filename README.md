@@ -23,23 +23,37 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![FontAwesome](https://img.shields.io/badge/-FontAwesome-333333?style=flat&logo=font-awesome)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 
 <h3>📔 &nbsp;O que estou estudando no momento:</h3>
 
-<h4>Front-End:</h4>
+<h4>Front-End | Fullstack:</h4>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=5849BE)
+![draw.io](https://img.shields.io/badge/-draw.io-333333?style=flat&logo=diagramsdotnet&logoColor=F08705)
 
 <h4>Back-End:</h4>
 
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
+![Scalar](https://img.shields.io/badge/-Scalar-333333?style=flat&logo=scalar&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+<h4>Arquiteturas e estrutura de código:</h4>
+
+![Hexagonal Architecture](https://img.shields.io/badge/-Hexagonal_Architecture-333333?style=flat&logo=hive-blockchain&logoColor=white)
+![Screaming Architecture](https://img.shields.io/badge/-Screaming_Architecture-333333?style=flat&logo=architectures&logoColor=white)
 
 <h3>👨‍💻 &nbsp;Stack que irei estudar em breve:</h3>
 
@@ -55,7 +69,6 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Supertest](https://img.shields.io/badge/-Supertest-333333?style=flat&logo=supertest)
