@@ -38,17 +38,16 @@
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=5849BE)
 ![draw.io](https://img.shields.io/badge/-draw.io-333333?style=flat&logo=diagramsdotnet&logoColor=F08705)
 
 <h4>Back-End:</h4>
 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=5849BE)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 ![Scalar](https://img.shields.io/badge/-Scalar-333333?style=flat&logo=scalar&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 
 <h4>Arquiteturas e estrutura de código:</h4>
 
