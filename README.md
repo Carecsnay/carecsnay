@@ -56,6 +56,7 @@
 ![Hexagonal Architecture](https://img.shields.io/badge/-Hexagonal_Architecture-333333?style=flat&logo=hive-blockchain&logoColor=white)
 ![Screaming Architecture](https://img.shields.io/badge/-Screaming_Architecture-333333?style=flat&logo=architectures&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/-Clean%20Code-333333?style=flat&logo=clean-code)
+![XP Architecture](https://img.shields.io/badge/-XP_Architecture-333333?style=flat&logo=extreme-programming&logoColor=white)
 
 <h3>Outras Aptidões:</h4>
 
