@@ -48,6 +48,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 ![Scalar](https://img.shields.io/badge/-Scalar-333333?style=flat&logo=scalar&logoColor=white)
+![Drizzle](https://img.shields.io/badge/-Drizzle_ORM-333333?style=flat&logo=drizzle&logoColor=C5F74F)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=2D3748)
 
 <h4>Arquiteturas e estrutura de código:</h4>
 
